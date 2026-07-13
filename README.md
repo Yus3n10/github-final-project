@@ -52,3 +52,4 @@ License
 
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
  af1d3227da8605cabedb20424919a8fcbf8f261a
+Reverting a change on the bug-fix-revert branch.
